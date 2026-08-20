@@ -10,7 +10,7 @@
     # nixpkgs-unfree.url = "github:numtide/nixpkgs-unfree/nixos-unstable";
     # nixpkgs-unfree.inputs.nixpkgs.follows = "nixpkgs-unstable";
     bun-overlay = {
-      url = "github:0xbigboss/bun-overlay";
+      url = "github:alleneubank/bun-overlay";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
     };
