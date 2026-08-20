@@ -11,15 +11,15 @@
         ]
       },
       "locked": {
-        "lastModified": 1784644194,
-        "narHash": "sha256-yFrZml6Wy4I3aa3r4BDST/Tv7ZrHel6yIT6SkEU7Ar8=",
-        "owner": "0xbigboss",
+        "lastModified": 1787247584,
+        "narHash": "sha256-7pXBYgIonJjWJiHffrq5+jWBjamTXChxdq0u3sNtwH0=",
+        "owner": "alleneubank",
         "repo": "bun-overlay",
-        "rev": "310aaac7466b3f48aff440c5346f43f74143d8f2",
+        "rev": "d830601dd496aaa8534c8513f8b3e453ca04f65d",
         "type": "github"
       },
       "original": {
-        "owner": "0xbigboss",
+        "owner": "alleneubank",
         "repo": "bun-overlay",
         "type": "github"
       }
