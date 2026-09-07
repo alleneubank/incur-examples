@@ -11,11 +11,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1787247584,
-        "narHash": "sha256-7pXBYgIonJjWJiHffrq5+jWBjamTXChxdq0u3sNtwH0=",
+        "lastModified": 1788620312,
+        "narHash": "sha256-qsfvPJszGMe3xzH4RDOSJ5ruPqgC/m2ps7HbZOsTskM=",
         "owner": "alleneubank",
         "repo": "bun-overlay",
-        "rev": "d830601dd496aaa8534c8513f8b3e453ca04f65d",
+        "rev": "7705bf47b3202134508da10a7b722b5529f28aab",
         "type": "github"
       },
       "original": {
@@ -110,11 +110,11 @@
     },
     "nixpkgs-unstable": {
       "locked": {
-        "lastModified": 1787964612,
-        "narHash": "sha256-0N9nghg3nwzX6b6qc77EzjR9cu/Z+UR66FlfsCqiURs=",
+        "lastModified": 1788608636,
+        "narHash": "sha256-RqeFOwW329f4i1f5QlJgQYwgEZvxIHJsUYlzIBxsKsY=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "e8be7818e19ada32105a8af937a6a473b38167ca",
+        "rev": "0af3d1402dec3fc7e93635e511d1f7428c89cebf",
         "type": "github"
       },
       "original": {
